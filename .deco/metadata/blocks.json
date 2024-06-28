@@ -48,5 +48,9 @@
   "/.deco/blocks/Preview%20%2Fsections%2F1.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/1.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2Fcc.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/cc.tsx"
   }
 }
