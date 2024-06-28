@@ -1282,23 +1282,12 @@
             "content": [
               {
                 "type": "stack",
-                "width": 50,
+                "width": 45.8165548098434,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
-                "activeItemIndex": 1,
+                "activeItemIndex": 0,
                 "content": [
-                  {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Code::code::Code::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Code::code::Code::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Code::code::Code::%7B%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  },
                   {
                     "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Preview::world::Preview::%7B%7D",
                     "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Preview::world::Preview::%7B%7D\" />",
@@ -1309,12 +1298,23 @@
                     },
                     "isClosable": true,
                     "reorderEnabled": true
+                  },
+                  {
+                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Code::code::Code::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Code::code::Code::%7B%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252Fdecopilot.tsx.json::Code::code::Code::%7B%7D"
+                    },
+                    "isClosable": true,
+                    "reorderEnabled": true
                   }
                 ]
               },
               {
                 "type": "stack",
-                "width": 50,
+                "width": 54.18344519015659,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
