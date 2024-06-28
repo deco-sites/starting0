@@ -1,3 +1,15 @@
 {
-  "__resolveType": "site/sections/1.tsx"
+  "__resolveType": "site/sections/1.tsx",
+  "events": [
+    {
+      "year": "1990",
+      "event": "Someone was born",
+      "completed": true
+    },
+    {
+      "year": "1997",
+      "event": "Another thing happened",
+      "completed": true
+    }
+  ]
 }
